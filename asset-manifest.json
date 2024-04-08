@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mrufinalapp/static/css/main.f855e6bc.css",
+    "main.js": "/mrufinalapp/static/js/main.5dc843b8.js",
+    "static/js/453.1fe4642b.chunk.js": "/mrufinalapp/static/js/453.1fe4642b.chunk.js",
+    "static/media/logo.svg": "/mrufinalapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mrufinalapp/index.html",
+    "main.f855e6bc.css.map": "/mrufinalapp/static/css/main.f855e6bc.css.map",
+    "main.5dc843b8.js.map": "/mrufinalapp/static/js/main.5dc843b8.js.map",
+    "453.1fe4642b.chunk.js.map": "/mrufinalapp/static/js/453.1fe4642b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5dc843b8.js"
+  ]
+}
